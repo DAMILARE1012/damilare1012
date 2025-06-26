@@ -10,4 +10,4 @@ I'm **Damilare Emmanuel Olatunji** — an AI Engineer, Educator, and Research As
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: My AI teaching support helped over **100 students** master deep learning and recommender systems — and I once built a multilingual LLM assistant to improve access to public services in Rwanda.
 
-> 🎓 CMU-Africa (MSc AI, 2024) | Physics & Applied Computing background | Driven by purpose, guided by code.
+> 🎓 CMU-Africa (MSc AI, 2025) | Physics & Applied Computing background | Driven by purpose, guided by code.
